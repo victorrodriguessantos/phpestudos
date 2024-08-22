@@ -1,3 +1,5 @@
+<?php include('indexFunction.php') ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -121,6 +123,12 @@ for ($num; $num <=100; $num++) {
 </div>
 
 </div>
+
+<?php
+Message();
+verificarIdade(13);
+echo validarCpf("12345678990");
+?>
 
 </body>
 </html>
