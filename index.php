@@ -1,9 +1,5 @@
 <?php include('indexFunction.php') ?>
-<?php include('vetor.php') ?>
 <?php include('contato.php') ?>
-
-
-
 
 <!DOCTYPE html>
 <html lang="en">
