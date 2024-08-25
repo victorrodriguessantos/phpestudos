@@ -22,6 +22,7 @@
             width: 200px;
             height: 50px;
             border: 1px solid #000;
+            box-shadow: 0 0 5px #000;
         }
 
         h1 {
