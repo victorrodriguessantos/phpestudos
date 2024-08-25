@@ -13,6 +13,7 @@
             justify-content: center;
             align-items: center;
             flex-direction: column;
+            background-color: #778899;
         }
 
         div {
