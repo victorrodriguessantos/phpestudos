@@ -31,6 +31,7 @@
 
         p {
             background-color: whitesmoke;
+            border-radius: 5px;
         }
 
         span {
